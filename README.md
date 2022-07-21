@@ -1,3 +1,5 @@
+# Status: `UNMAINTAINED`
+
 # Irvix.Quotes
 A program to parse the quote chat.
 
